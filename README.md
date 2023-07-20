@@ -19,4 +19,8 @@ To run this project, you need to have the following dependencies installed:
 9. numpy
 
 # Acknowledgments
-This project was inspired by the need for a simple yet effective sentiment analysis solution using BERT-based models and Transformers library. Special thanks to the open-source community for providing valuable tools and resources that make projects like this possible.
+This project was inspired by the need for a simple yet effective sentiment analysis solution using BERT-based models and the Transformers library. Special thanks to the open-source community for providing valuable tools and resources that make projects like this possible.
+
+# datasets
+you can download the amazon reviews data set through the below link. It contains approx 500k reviews .or you can collect the data from the online review website as shown in the code.
+kaggle link :https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input
